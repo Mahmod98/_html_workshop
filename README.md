@@ -6,7 +6,7 @@
 - That's why he needs to organize his day well and this is the job of the “Todo List” 
 
 ## Description:
-Through To Do Best, the user can do the following:
+By ToDo list web application, the user can do the following:
 - Write down the tasks the user wants to complete in a day.
 - Referring to a task as completed.
 - Modify or delete tasks.
