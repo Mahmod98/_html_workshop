@@ -1,0 +1,145 @@
+body{
+    font-family: sans-serif;
+    font-size: 15px;
+    padding: 0;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+section{
+    margin: 10px 0px;
+     background-color: #f0f6f9;
+ } 
+
+.sec{
+    background-color:#ffffff;
+}
+
+.intro{
+    background-color: #35424a;
+    color: #ffffff;
+    border-bottom: #e8491d 3px solid;
+    text-align: center;
+    margin: 0px;
+    padding: 5px;
+}
+
+.container{
+    width: 88%;
+    margin: auto;
+    overflow:hidden; 
+}
+
+.articlehome{
+    overflow: hidden;
+    margin-bottom: 10px;
+    padding: 0px 10px;
+    float: left;
+    width: 80%;
+    margin-left: 100px;
+    text-align: justify;
+    line-height: 25px;
+}
+
+.homeparaghraph{
+    line-height: 25px;
+    padding:5px;
+    text-align: justify;
+}
+
+.underline{
+    text-decoration:underline;
+    color:  #e8491d;
+}
+
+footer{ 
+    font-size: 12px;
+     width: 100%; 
+     color:#ffffff;
+     background-color: #e8491d;
+     text-align: center;
+     padding: 1px 0px 1px;
+ }
+
+ form{
+    background-color: #35424a;
+    height: 230px;
+    color: white;   
+    margin-top: 20px;
+}
+
+#form2{
+    height: 450px;
+}
+
+input[type=text]:hover{
+    box-shadow: 0 0 10px 4px #e8491d;  
+}
+
+input[type=submit],[type = button]{
+  width: 10%;
+  background-color: #e8491d;
+  color: white;
+  padding: 12px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  
+}
+
+input[type=submit]:hover{
+    opacity: .8;
+}
+
+input[type=text]{
+  
+    width: 100%;
+    padding: 9px;
+    margin-top: 6px;
+    margin-bottom: 16px;    
+    border: 1px solid #ccc;
+    box-sizing:border-box;
+  }
+
+  #h_form{
+      color: antiquewhite;
+  }
+
+  img{
+    width: 30%;
+    margin-top: 20px;
+  }
+
+  .btn1{
+    width: 10%;
+    background-color: #e8491d;
+    color: white;
+    padding: 12px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .btn2{
+    width: 10%;
+    background-color: #35424a;
+    color: white;
+    padding: 12px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+#hidee{
+    width: 10%;
+    background-color: #e8491d;
+    color: white;
+    padding: 12px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
